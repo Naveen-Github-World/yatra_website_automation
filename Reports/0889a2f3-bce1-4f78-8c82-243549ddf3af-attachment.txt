@@ -1,0 +1,8 @@
+[32mINFO    [0m YatraAutomation:test_landingpage.py:12 ********** Test case started: test_landingpagetitle **********
+[32mINFO    [0m YatraAutomation:test_landingpage.py:13 ********** Setting up the driver and navigating to the base URL **********
+[32mINFO    [0m YatraAutomation:test_landingpage.py:16 ********** Maximizing the window **********
+[32mINFO    [0m YatraAutomation:test_landingpage.py:18 ********** Waiting for the page to load **********
+[32mINFO    [0m YatraAutomation:test_landingpage.py:20 ********** Retrieving Landing Page title **********
+[32mINFO    [0m YatraAutomation:test_landingpage.py:24 ********** Clicking Prime Page button **********
+[32mINFO    [0m YatraAutomation:test_landingpage.py:26 ********** Retrieving Prime Page title **********
+[32mINFO    [0m YatraAutomation:test_landingpage.py:31 ********** Retrieving Landing Page title for confirmation **********
