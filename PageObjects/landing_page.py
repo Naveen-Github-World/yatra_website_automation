@@ -59,7 +59,7 @@ class LandingPage:
         self.driver.find_element(By.XPATH, self.yatra_mice_link_xpath).click()
 
     def click_travel_agent_button(self):
-        travel_agent_title_xpath = (WebDriverWait(self.driver, 10).until
+        travel_agent_title_xpath = (WebDriverWait(self.driver, 30).until
             (EC.element_to_be_clickable(
             (By.XPATH, "//*[@id='__next']/div/div[1]/div[1]/div/div[2]/div[2]/a"))))
         travel_agent_title_xpath.click()
