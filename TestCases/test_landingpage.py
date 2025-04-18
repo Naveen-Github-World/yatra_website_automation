@@ -96,6 +96,7 @@ class Test_001_Landing_Page:
         self.logger.info("********** RECAP Link (Not working as expected so its deferred) **********")
 
         self.logger.info("********** Clicking For Travel Agents Button **********")
+        self.driver.sleep(5)  # As the link is not working, waiting for 5 seconds
         self.lp.click_travel_agent_button()
         all_window_handles = self.driver.window_handles
         print("All window handles:", all_window_handles)
