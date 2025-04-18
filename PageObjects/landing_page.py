@@ -49,7 +49,11 @@ class LandingPage:
             return []
 
     def click_corporate_travel_link(self):
-        self.driver.find_element(By.XPATH, self.corporate_travel_link_xpath).click()
+        corporate_travel_link_xpath = (WebDriverWait(self.driver,10).until
+                                       (EC.element_to_be_clickable(
+            (By.XPATH,"//*[@id='__next']/div/div[1]/div[1]/div/div[2]/div[2]/a"))))
+        corporate_travel_link_xpath.click()
+        #self.driver.find_element(By.XPATH, self.corporate_travel_link_xpath).click()
 
     def click_yatra_mice_link(self):
         self.driver.find_element(By.XPATH, self.yatra_mice_link_xpath).click()
