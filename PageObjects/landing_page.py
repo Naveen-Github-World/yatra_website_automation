@@ -22,6 +22,16 @@ class LandingPage:
     my_booking_link_xpath = "//*[@id='simple-popover']/div[3]/div/div/p[2]"
     my_refund_link_xpath = "//*[@id='simple-popover']/div[3]/div/div/p[3]"
 
+    panel_multitab_title_retrieving_xpath="//*[@id='__next']/div/div[1]/div[2]/div[1]"
+    flights_panel_button_path="//*[@id='simple-tab-0']"
+
+
+
+
+
+
+
+
     def __init__(self, driver):
         self.driver = driver
 
@@ -59,11 +69,11 @@ class LandingPage:
         self.driver.find_element(By.XPATH, self.yatra_mice_link_xpath).click()
 
     def click_travel_agent_button(self):
-        # travel_agent_title_xpath = (WebDriverWait(self.driver, 30).until
-        #     (EC.element_to_be_clickable(
-        #     (By.XPATH, "//*[@id='__next']/div/div[1]/div[1]/div/div[2]/div[2]/a"))))
-        # travel_agent_title_xpath.click()
-        self.driver.find_element(By.CLASS_NAME,"css-1shtzbc").click()
+        travel_agent_title_xpath = (WebDriverWait(self.driver, 10).until
+            (EC.element_to_be_clickable(
+            (By.XPATH, "//*[@id='__next']/div/div[1]/div[1]/div/div[2]/div[2]/a"))))
+        travel_agent_title_xpath.click()
+
 
     def click_login_signup_button(self):
         self.driver.find_element(By.XPATH, self.login_signup_title_xpath).click()
@@ -90,6 +100,17 @@ class LandingPage:
 
     def click_my_refund_link(self):
         self.driver.find_element(By.XPATH, self.my_refund_link_xpath).click()
+
+    def get_panel_multitab_title(self):
+        try:
+            WebDriverWait(self.driver, 10).until(
+                EC.presence_of_element_located((By.XPATH, self.panel_multitab_title_retrieving_xpath))
+            )
+            panel_multitab_title = self.driver.find_element(By.XPATH, self.panel_multitab_title_retrieving_xpath).text
+            return panel_multitab_title
+        except Exception as e:
+            print(f"Error getting panel multitab title: {str(e)}")
+            return []
 
 
 

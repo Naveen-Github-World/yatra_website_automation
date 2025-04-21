@@ -1,6 +1,8 @@
 import allure
 from selenium import webdriver
 import pytest
+from PageObjects.landing_page import LandingPage
+
 
 @pytest.fixture()
 def setup(browser):
@@ -16,6 +18,25 @@ def setup(browser):
 
 
     return driver
+
+
+@pytest.fixture(scope="class")
+def setup_class(request):
+    driver = webdriver.Chrome()  # or whatever browser you're using
+    driver.get("https://www.yatra.com/")
+    driver.maximize_window()
+    driver.implicitly_wait(5)
+
+    # Create LandingPage object
+    lp = LandingPage(driver)
+
+    # Attach driver and LandingPage to class
+    request.cls.driver = driver
+    request.cls.lp = lp
+
+    yield
+
+    driver.quit()
 
 def pytest_addoption(parser):
     parser.addoption("--browser")

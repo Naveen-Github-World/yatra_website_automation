@@ -1,24 +1,21 @@
-import time
-
 from PageObjects.landing_page import LandingPage
 from Utilities.custom_logger import LogGeneration
 from TestCases.conftest import log_on_failure
+import pytest
 
+@pytest.mark.usefixtures("setup_class")
 class Test_001_Landing_Page:
 
-    baseurl = "https://www.yatra.com/"
     logger = LogGeneration.loggen()
 
 
-    def test_landingpagetitle(self, setup,log_on_failure):
+
+    def test_landingpageheaderpart(self,setup_class,log_on_failure):
         self.logger.info("********** Test case started: test_landingpagetitle **********")
         self.logger.info("********** Setting up the driver and navigating to the base URL **********")
-        self.driver=setup
-        self.driver.get(self.baseurl)
         self.logger.info("********** Maximizing the window **********")
-        self.driver.maximize_window()
         self.logger.info("********** Waiting for the page to load **********")
-        self.driver.implicitly_wait(5)
+
         self.logger.info("********** Retrieving Landing Page title **********")
         self.landing_page_title=self.driver.title
         print("This is the landing page title:",self.landing_page_title)
@@ -98,7 +95,7 @@ class Test_001_Landing_Page:
         self.logger.info("********** RECAP Link (Not working as expected so its deferred) **********")
 
         self.logger.info("********** Clicking For Travel Agents Button **********")
-        time.sleep(5)  # As the link is not working, waiting for 5 seconds
+        self.driver.implicitly_wait(10)  # wait for the element to load
         self.lp.click_travel_agent_button()
         all_window_handles = self.driver.window_handles
         print("All window handles:", all_window_handles)
@@ -162,6 +159,22 @@ class Test_001_Landing_Page:
                 self.logger.info("********** Switching back to parent window **********")
 
 
+    def test_flight_search(self,setup_class,log_on_failure):
+        self.logger.info("********** Test case started: test_flight_search : Testing Flight Panel **********")
+        self.logger.info("********** Navigating to URL **********")
+        self.driver.get("https://www.yatra.com")
+        self.logger.info("********** Maximizing the window **********")
+        self.driver.maximize_window()
+
+        self.logger.info("********** Retrieving Panel list buttons **********")
+        multitab_results = self.lp.get_panel_multitab_title()
+
+        message = f"Panel List items: {(multitab_results)}"
+        self.logger.info(message)
+        print(message)
+
+        # Add assertions or further interactions here
+        assert "Flights" in multitab_results, "Flights option not found in panel list"
 
 
 
@@ -182,7 +195,14 @@ class Test_001_Landing_Page:
 
 
 
-        self.driver.close()
+
+
+
+
+
+
+
+
 
 
 

@@ -1316,3 +1316,885 @@
 04/17/2025 10:10:43 PM: INFO: ********** Switching back to parent window **********
 04/17/2025 10:10:44 PM: INFO: ********** Switching to My Refund window **********
 04/17/2025 10:10:45 PM: INFO: ********** Switching back to parent window **********
+04/17/2025 10:20:46 PM: INFO: Logging initialized successfully
+04/17/2025 10:20:48 PM: INFO: ********** Test case started: test_landingpagetitle **********
+04/17/2025 10:20:48 PM: INFO: ********** Setting up the driver and navigating to the base URL **********
+04/17/2025 10:20:50 PM: INFO: ********** Maximizing the window **********
+04/17/2025 10:20:50 PM: INFO: ********** Waiting for the page to load **********
+04/17/2025 10:20:50 PM: INFO: ********** Retrieving Landing Page title **********
+04/17/2025 10:20:51 PM: INFO: ********** Clicking Prime Page button **********
+04/17/2025 10:20:53 PM: INFO: ********** Retrieving Prime Page title **********
+04/17/2025 10:20:56 PM: INFO: ********** Retrieving Landing Page title for confirmation **********
+04/17/2025 10:20:56 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/17/2025 10:20:56 PM: INFO: ********** Getting Corporates/SME dropdown results **********
+04/17/2025 10:20:57 PM: INFO: ********** Printing Corporates/SME dropdown results **********
+04/17/2025 10:20:57 PM: INFO: Number of dropdown items: 1
+04/17/2025 10:20:57 PM: INFO: ********** Clicking Corporate Travel Link **********
+04/17/2025 10:20:57 PM: INFO: ********** Switching to Corporate Travel window **********
+04/17/2025 10:21:00 PM: INFO: ********** Switching back to parent window **********
+04/17/2025 10:21:00 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/17/2025 10:21:00 PM: INFO: ********** Clicking yatra M.I.C.E Link **********
+04/17/2025 10:21:00 PM: INFO: ********** Switching to yatra M.I.C.E window **********
+04/17/2025 10:21:01 PM: INFO: ********** Switching back to parent window **********
+04/17/2025 10:21:01 PM: INFO: ********** RECAP Link (Not working as expected so its deferred) **********
+04/17/2025 10:21:01 PM: INFO: ********** Clicking For Travel Agents Button **********
+04/17/2025 10:21:01 PM: INFO: ********** Switching to Travel Agent window **********
+04/17/2025 10:21:04 PM: INFO: ********** Switching back to parent window **********
+04/17/2025 10:21:04 PM: INFO: ********** Clicking Login/SignUp dropdown **********
+04/17/2025 10:21:04 PM: INFO: ********** Getting Login/SignUp dropdown results **********
+04/17/2025 10:21:04 PM: INFO: ********** Printing Login/SignUp dropdown results **********
+04/17/2025 10:21:04 PM: INFO: Number of dropdown items: 1
+04/17/2025 10:21:04 PM: INFO: ********** Clicking Login/Create Account Link **********
+04/17/2025 10:21:06 PM: INFO: ********** Clicking yatra logo in Login/Create Account page **********
+04/17/2025 10:21:07 PM: INFO: ********** Returning back to landing page yatra.com **********
+04/17/2025 10:21:08 PM: INFO: ********** Switching to My Booking window **********
+04/17/2025 10:21:09 PM: INFO: ********** Switching back to parent window **********
+04/17/2025 10:21:10 PM: INFO: ********** Switching to My Refund window **********
+04/17/2025 10:21:10 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 11:21:03 AM: INFO: Logging initialized successfully
+04/18/2025 11:21:06 AM: INFO: ********** Test case started: test_landingpagetitle **********
+04/18/2025 11:21:06 AM: INFO: ********** Setting up the driver and navigating to the base URL **********
+04/18/2025 11:21:06 AM: INFO: ********** Maximizing the window **********
+04/18/2025 11:21:09 AM: INFO: ********** Waiting for the page to load **********
+04/18/2025 11:21:09 AM: INFO: ********** Retrieving Landing Page title **********
+04/18/2025 11:21:09 AM: INFO: ********** Clicking Prime Page button **********
+04/18/2025 11:21:11 AM: INFO: ********** Retrieving Prime Page title **********
+04/18/2025 11:21:14 AM: INFO: ********** Retrieving Landing Page title for confirmation **********
+04/18/2025 11:21:14 AM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 11:21:15 AM: INFO: ********** Getting Corporates/SME dropdown results **********
+04/18/2025 11:21:15 AM: INFO: ********** Printing Corporates/SME dropdown results **********
+04/18/2025 11:21:15 AM: INFO: Number of dropdown items: 1
+04/18/2025 11:21:15 AM: INFO: ********** Clicking Corporate Travel Link **********
+04/18/2025 11:29:30 AM: INFO: Logging initialized successfully
+04/18/2025 11:29:32 AM: INFO: ********** Test case started: test_landingpagetitle **********
+04/18/2025 11:29:32 AM: INFO: ********** Setting up the driver and navigating to the base URL **********
+04/18/2025 11:29:32 AM: INFO: ********** Maximizing the window **********
+04/18/2025 11:29:36 AM: INFO: ********** Waiting for the page to load **********
+04/18/2025 11:29:36 AM: INFO: ********** Retrieving Landing Page title **********
+04/18/2025 11:29:36 AM: INFO: ********** Clicking Prime Page button **********
+04/18/2025 11:29:37 AM: INFO: ********** Retrieving Prime Page title **********
+04/18/2025 11:29:39 AM: INFO: ********** Retrieving Landing Page title for confirmation **********
+04/18/2025 11:29:40 AM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 11:29:40 AM: INFO: ********** Getting Corporates/SME dropdown results **********
+04/18/2025 11:29:41 AM: INFO: ********** Printing Corporates/SME dropdown results **********
+04/18/2025 11:29:41 AM: INFO: Number of dropdown items: 1
+04/18/2025 11:29:41 AM: INFO: ********** Clicking Corporate Travel Link **********
+04/18/2025 11:29:41 AM: INFO: ********** Switching to Corporate Travel window **********
+04/18/2025 11:29:44 AM: INFO: ********** Switching back to parent window **********
+04/18/2025 11:29:44 AM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 11:29:44 AM: INFO: ********** Clicking yatra M.I.C.E Link **********
+04/18/2025 11:29:44 AM: INFO: ********** Switching to yatra M.I.C.E window **********
+04/18/2025 11:29:44 AM: INFO: ********** Switching back to parent window **********
+04/18/2025 11:29:44 AM: INFO: ********** RECAP Link (Not working as expected so its deferred) **********
+04/18/2025 11:29:44 AM: INFO: ********** Clicking For Travel Agents Button **********
+04/18/2025 11:30:49 AM: INFO: Logging initialized successfully
+04/18/2025 11:30:51 AM: INFO: ********** Test case started: test_landingpagetitle **********
+04/18/2025 11:30:51 AM: INFO: ********** Setting up the driver and navigating to the base URL **********
+04/18/2025 11:31:08 AM: INFO: ********** Maximizing the window **********
+04/18/2025 11:31:09 AM: INFO: ********** Waiting for the page to load **********
+04/18/2025 11:31:09 AM: INFO: ********** Retrieving Landing Page title **********
+04/18/2025 11:31:09 AM: INFO: ********** Clicking Prime Page button **********
+04/18/2025 11:31:10 AM: INFO: ********** Retrieving Prime Page title **********
+04/18/2025 11:31:14 AM: INFO: ********** Retrieving Landing Page title for confirmation **********
+04/18/2025 11:31:14 AM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 11:31:14 AM: INFO: ********** Getting Corporates/SME dropdown results **********
+04/18/2025 11:31:14 AM: INFO: ********** Printing Corporates/SME dropdown results **********
+04/18/2025 11:31:14 AM: INFO: Number of dropdown items: 1
+04/18/2025 11:31:14 AM: INFO: ********** Clicking Corporate Travel Link **********
+04/18/2025 11:31:15 AM: INFO: ********** Switching to Corporate Travel window **********
+04/18/2025 11:31:17 AM: INFO: ********** Switching back to parent window **********
+04/18/2025 11:31:17 AM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 11:31:17 AM: INFO: ********** Clicking yatra M.I.C.E Link **********
+04/18/2025 11:31:17 AM: INFO: ********** Switching to yatra M.I.C.E window **********
+04/18/2025 11:31:18 AM: INFO: ********** Switching back to parent window **********
+04/18/2025 11:31:18 AM: INFO: ********** RECAP Link (Not working as expected so its deferred) **********
+04/18/2025 11:31:18 AM: INFO: ********** Clicking For Travel Agents Button **********
+04/18/2025 11:31:18 AM: INFO: ********** Switching to Travel Agent window **********
+04/18/2025 11:31:20 AM: INFO: ********** Switching back to parent window **********
+04/18/2025 11:31:20 AM: INFO: ********** Clicking Login/SignUp dropdown **********
+04/18/2025 11:31:21 AM: INFO: ********** Getting Login/SignUp dropdown results **********
+04/18/2025 11:31:21 AM: INFO: ********** Printing Login/SignUp dropdown results **********
+04/18/2025 11:31:21 AM: INFO: Number of dropdown items: 1
+04/18/2025 11:31:21 AM: INFO: ********** Clicking Login/Create Account Link **********
+04/18/2025 11:31:24 AM: INFO: ********** Clicking yatra logo in Login/Create Account page **********
+04/18/2025 11:31:24 AM: INFO: ********** Returning back to landing page yatra.com **********
+04/18/2025 11:31:26 AM: INFO: ********** Switching to My Booking window **********
+04/18/2025 11:31:28 AM: INFO: ********** Switching back to parent window **********
+04/18/2025 11:31:28 AM: INFO: ********** Switching to My Refund window **********
+04/18/2025 11:31:30 AM: INFO: ********** Switching back to parent window **********
+04/18/2025 11:55:54 AM: INFO: Logging initialized successfully
+04/18/2025 11:55:56 AM: INFO: ********** Test case started: test_landingpagetitle **********
+04/18/2025 11:55:56 AM: INFO: ********** Setting up the driver and navigating to the base URL **********
+04/18/2025 11:55:59 AM: INFO: ********** Maximizing the window **********
+04/18/2025 11:55:59 AM: INFO: ********** Waiting for the page to load **********
+04/18/2025 11:55:59 AM: INFO: ********** Retrieving Landing Page title **********
+04/18/2025 11:56:00 AM: INFO: ********** Clicking Prime Page button **********
+04/18/2025 11:56:01 AM: INFO: ********** Retrieving Prime Page title **********
+04/18/2025 11:56:04 AM: INFO: ********** Retrieving Landing Page title for confirmation **********
+04/18/2025 11:56:04 AM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 11:56:05 AM: INFO: ********** Getting Corporates/SME dropdown results **********
+04/18/2025 11:56:05 AM: INFO: ********** Printing Corporates/SME dropdown results **********
+04/18/2025 11:56:05 AM: INFO: Number of dropdown items: 1
+04/18/2025 11:56:05 AM: INFO: ********** Clicking Corporate Travel Link **********
+04/18/2025 11:56:05 AM: INFO: ********** Switching to Corporate Travel window **********
+04/18/2025 11:56:08 AM: INFO: ********** Switching back to parent window **********
+04/18/2025 11:56:08 AM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 11:56:08 AM: INFO: ********** Clicking yatra M.I.C.E Link **********
+04/18/2025 11:56:08 AM: INFO: ********** Switching to yatra M.I.C.E window **********
+04/18/2025 11:56:08 AM: INFO: ********** Switching back to parent window **********
+04/18/2025 11:56:08 AM: INFO: ********** RECAP Link (Not working as expected so its deferred) **********
+04/18/2025 11:56:09 AM: INFO: ********** Clicking For Travel Agents Button **********
+04/18/2025 11:56:09 AM: INFO: ********** Switching to Travel Agent window **********
+04/18/2025 11:56:11 AM: INFO: ********** Switching back to parent window **********
+04/18/2025 11:56:11 AM: INFO: ********** Clicking Login/SignUp dropdown **********
+04/18/2025 11:56:11 AM: INFO: ********** Getting Login/SignUp dropdown results **********
+04/18/2025 11:56:11 AM: INFO: ********** Printing Login/SignUp dropdown results **********
+04/18/2025 11:56:11 AM: INFO: Number of dropdown items: 1
+04/18/2025 11:56:11 AM: INFO: ********** Clicking Login/Create Account Link **********
+04/18/2025 11:56:14 AM: INFO: ********** Clicking yatra logo in Login/Create Account page **********
+04/18/2025 11:56:15 AM: INFO: ********** Returning back to landing page yatra.com **********
+04/18/2025 11:56:16 AM: INFO: ********** Switching to My Booking window **********
+04/18/2025 11:56:17 AM: INFO: ********** Switching back to parent window **********
+04/18/2025 11:56:17 AM: INFO: ********** Switching to My Refund window **********
+04/18/2025 11:56:18 AM: INFO: ********** Switching back to parent window **********
+04/18/2025 12:14:15 PM: INFO: Logging initialized successfully
+04/18/2025 12:14:17 PM: INFO: ********** Test case started: test_landingpagetitle **********
+04/18/2025 12:14:17 PM: INFO: ********** Setting up the driver and navigating to the base URL **********
+04/18/2025 12:14:17 PM: INFO: ********** Maximizing the window **********
+04/18/2025 12:14:19 PM: INFO: ********** Waiting for the page to load **********
+04/18/2025 12:14:19 PM: INFO: ********** Retrieving Landing Page title **********
+04/18/2025 12:14:19 PM: INFO: ********** Clicking Prime Page button **********
+04/18/2025 12:14:21 PM: INFO: ********** Retrieving Prime Page title **********
+04/18/2025 12:14:24 PM: INFO: ********** Retrieving Landing Page title for confirmation **********
+04/18/2025 12:14:24 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 12:14:25 PM: INFO: ********** Getting Corporates/SME dropdown results **********
+04/18/2025 12:14:25 PM: INFO: ********** Printing Corporates/SME dropdown results **********
+04/18/2025 12:14:25 PM: INFO: Number of dropdown items: 1
+04/18/2025 12:14:25 PM: INFO: ********** Clicking Corporate Travel Link **********
+04/18/2025 12:14:25 PM: INFO: ********** Switching to Corporate Travel window **********
+04/18/2025 12:14:28 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 12:14:28 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 12:14:28 PM: INFO: ********** Clicking yatra M.I.C.E Link **********
+04/18/2025 12:14:28 PM: INFO: ********** Switching to yatra M.I.C.E window **********
+04/18/2025 12:14:29 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 12:14:29 PM: INFO: ********** RECAP Link (Not working as expected so its deferred) **********
+04/18/2025 12:14:29 PM: INFO: ********** Clicking For Travel Agents Button **********
+04/18/2025 12:14:29 PM: INFO: ********** Switching to Travel Agent window **********
+04/18/2025 12:14:31 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 12:14:31 PM: INFO: ********** Clicking Login/SignUp dropdown **********
+04/18/2025 12:14:31 PM: INFO: ********** Getting Login/SignUp dropdown results **********
+04/18/2025 12:14:31 PM: INFO: ********** Printing Login/SignUp dropdown results **********
+04/18/2025 12:14:31 PM: INFO: Number of dropdown items: 1
+04/18/2025 12:14:31 PM: INFO: ********** Clicking Login/Create Account Link **********
+04/18/2025 12:14:33 PM: INFO: ********** Clicking yatra logo in Login/Create Account page **********
+04/18/2025 12:14:34 PM: INFO: ********** Returning back to landing page yatra.com **********
+04/18/2025 12:14:35 PM: INFO: ********** Switching to My Booking window **********
+04/18/2025 12:14:36 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 12:33:19 PM: INFO: Logging initialized successfully
+04/18/2025 12:33:22 PM: INFO: ********** Test case started: test_landingpagetitle **********
+04/18/2025 12:33:22 PM: INFO: ********** Setting up the driver and navigating to the base URL **********
+04/18/2025 12:33:26 PM: INFO: ********** Maximizing the window **********
+04/18/2025 12:33:26 PM: INFO: ********** Waiting for the page to load **********
+04/18/2025 12:33:26 PM: INFO: ********** Retrieving Landing Page title **********
+04/18/2025 12:33:26 PM: INFO: ********** Clicking Prime Page button **********
+04/18/2025 12:33:28 PM: INFO: ********** Retrieving Prime Page title **********
+04/18/2025 12:33:30 PM: INFO: ********** Retrieving Landing Page title for confirmation **********
+04/18/2025 12:33:30 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 12:33:31 PM: INFO: ********** Getting Corporates/SME dropdown results **********
+04/18/2025 12:33:31 PM: INFO: ********** Printing Corporates/SME dropdown results **********
+04/18/2025 12:33:31 PM: INFO: Number of dropdown items: 1
+04/18/2025 12:33:31 PM: INFO: ********** Clicking Corporate Travel Link **********
+04/18/2025 12:33:32 PM: INFO: ********** Switching to Corporate Travel window **********
+04/18/2025 12:33:34 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 12:33:34 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 12:33:34 PM: INFO: ********** Clicking yatra M.I.C.E Link **********
+04/18/2025 12:33:34 PM: INFO: ********** Switching to yatra M.I.C.E window **********
+04/18/2025 12:33:35 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 12:33:35 PM: INFO: ********** RECAP Link (Not working as expected so its deferred) **********
+04/18/2025 12:33:35 PM: INFO: ********** Clicking For Travel Agents Button **********
+04/18/2025 12:33:35 PM: INFO: ********** Switching to Travel Agent window **********
+04/18/2025 12:33:38 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 12:33:38 PM: INFO: ********** Clicking Login/SignUp dropdown **********
+04/18/2025 12:33:38 PM: INFO: ********** Getting Login/SignUp dropdown results **********
+04/18/2025 12:33:38 PM: INFO: ********** Printing Login/SignUp dropdown results **********
+04/18/2025 12:33:38 PM: INFO: Number of dropdown items: 1
+04/18/2025 12:33:38 PM: INFO: ********** Clicking Login/Create Account Link **********
+04/18/2025 12:33:41 PM: INFO: ********** Clicking yatra logo in Login/Create Account page **********
+04/18/2025 12:33:42 PM: INFO: ********** Returning back to landing page yatra.com **********
+04/18/2025 12:33:43 PM: INFO: ********** Switching to My Booking window **********
+04/18/2025 12:33:44 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 12:33:45 PM: INFO: ********** Switching to My Refund window **********
+04/18/2025 12:33:46 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 12:34:12 PM: INFO: Logging initialized successfully
+04/18/2025 12:34:14 PM: INFO: ********** Test case started: test_landingpagetitle **********
+04/18/2025 12:34:14 PM: INFO: ********** Setting up the driver and navigating to the base URL **********
+04/18/2025 12:34:14 PM: INFO: ********** Maximizing the window **********
+04/18/2025 12:34:18 PM: INFO: ********** Waiting for the page to load **********
+04/18/2025 12:34:18 PM: INFO: ********** Retrieving Landing Page title **********
+04/18/2025 12:34:18 PM: INFO: ********** Clicking Prime Page button **********
+04/18/2025 12:34:19 PM: INFO: ********** Retrieving Prime Page title **********
+04/18/2025 12:34:22 PM: INFO: ********** Retrieving Landing Page title for confirmation **********
+04/18/2025 12:34:22 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 12:34:23 PM: INFO: ********** Getting Corporates/SME dropdown results **********
+04/18/2025 12:34:23 PM: INFO: ********** Printing Corporates/SME dropdown results **********
+04/18/2025 12:34:23 PM: INFO: Number of dropdown items: 1
+04/18/2025 12:34:23 PM: INFO: ********** Clicking Corporate Travel Link **********
+04/18/2025 12:34:23 PM: INFO: ********** Switching to Corporate Travel window **********
+04/18/2025 12:34:26 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 12:34:26 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 12:34:26 PM: INFO: ********** Clicking yatra M.I.C.E Link **********
+04/18/2025 12:34:26 PM: INFO: ********** Switching to yatra M.I.C.E window **********
+04/18/2025 12:34:27 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 12:34:27 PM: INFO: ********** RECAP Link (Not working as expected so its deferred) **********
+04/18/2025 12:34:27 PM: INFO: ********** Clicking For Travel Agents Button **********
+04/18/2025 12:34:27 PM: INFO: ********** Switching to Travel Agent window **********
+04/18/2025 12:34:30 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 12:34:30 PM: INFO: ********** Clicking Login/SignUp dropdown **********
+04/18/2025 12:34:30 PM: INFO: ********** Getting Login/SignUp dropdown results **********
+04/18/2025 12:34:30 PM: INFO: ********** Printing Login/SignUp dropdown results **********
+04/18/2025 12:34:30 PM: INFO: Number of dropdown items: 1
+04/18/2025 12:34:30 PM: INFO: ********** Clicking Login/Create Account Link **********
+04/18/2025 12:34:33 PM: INFO: ********** Clicking yatra logo in Login/Create Account page **********
+04/18/2025 12:34:34 PM: INFO: ********** Returning back to landing page yatra.com **********
+04/18/2025 12:34:35 PM: INFO: ********** Switching to My Booking window **********
+04/18/2025 12:34:36 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 12:34:36 PM: INFO: ********** Switching to My Refund window **********
+04/18/2025 12:34:37 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 08:26:29 PM: INFO: Logging initialized successfully
+04/18/2025 08:26:33 PM: INFO: ********** Test case started: test_landingpagetitle **********
+04/18/2025 08:26:33 PM: INFO: ********** Setting up the driver and navigating to the base URL **********
+04/18/2025 08:26:35 PM: INFO: ********** Maximizing the window **********
+04/18/2025 08:26:36 PM: INFO: ********** Waiting for the page to load **********
+04/18/2025 08:26:36 PM: INFO: ********** Retrieving Landing Page title **********
+04/18/2025 08:26:36 PM: INFO: ********** Clicking Prime Page button **********
+04/18/2025 08:26:37 PM: INFO: ********** Retrieving Prime Page title **********
+04/18/2025 08:26:41 PM: INFO: ********** Retrieving Landing Page title for confirmation **********
+04/18/2025 08:26:41 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 08:26:41 PM: INFO: ********** Getting Corporates/SME dropdown results **********
+04/18/2025 08:26:42 PM: INFO: ********** Printing Corporates/SME dropdown results **********
+04/18/2025 08:26:42 PM: INFO: Number of dropdown items: 1
+04/18/2025 08:26:42 PM: INFO: ********** Clicking Corporate Travel Link **********
+04/18/2025 08:26:42 PM: INFO: ********** Switching to Corporate Travel window **********
+04/18/2025 08:26:45 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 08:26:45 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 08:26:45 PM: INFO: ********** Clicking yatra M.I.C.E Link **********
+04/18/2025 08:26:45 PM: INFO: ********** Switching to yatra M.I.C.E window **********
+04/18/2025 08:26:46 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 08:26:46 PM: INFO: ********** RECAP Link (Not working as expected so its deferred) **********
+04/18/2025 08:26:46 PM: INFO: ********** Clicking For Travel Agents Button **********
+04/18/2025 08:26:47 PM: INFO: ********** Switching to Travel Agent window **********
+04/18/2025 08:26:49 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 08:26:49 PM: INFO: ********** Clicking Login/SignUp dropdown **********
+04/18/2025 08:26:49 PM: INFO: ********** Getting Login/SignUp dropdown results **********
+04/18/2025 08:26:50 PM: INFO: ********** Printing Login/SignUp dropdown results **********
+04/18/2025 08:26:50 PM: INFO: Number of dropdown items: 1
+04/18/2025 08:26:50 PM: INFO: ********** Clicking Login/Create Account Link **********
+04/18/2025 08:26:54 PM: INFO: ********** Clicking yatra logo in Login/Create Account page **********
+04/18/2025 08:26:56 PM: INFO: ********** Returning back to landing page yatra.com **********
+04/18/2025 08:26:56 PM: INFO: ********** Switching to My Booking window **********
+04/18/2025 08:27:00 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 08:27:04 PM: INFO: ********** Test case started: test_flightsearch:Testing Flight Panel **********
+04/18/2025 08:27:04 PM: INFO: ********** Getting Panel list buttons **********
+04/18/2025 08:31:14 PM: INFO: Logging initialized successfully
+04/18/2025 08:31:15 PM: INFO: ********** Test case started: test_landingpagetitle **********
+04/18/2025 08:31:15 PM: INFO: ********** Setting up the driver and navigating to the base URL **********
+04/18/2025 08:31:16 PM: INFO: ********** Maximizing the window **********
+04/18/2025 08:31:18 PM: INFO: ********** Waiting for the page to load **********
+04/18/2025 08:31:18 PM: INFO: ********** Retrieving Landing Page title **********
+04/18/2025 08:31:18 PM: INFO: ********** Clicking Prime Page button **********
+04/18/2025 08:31:20 PM: INFO: ********** Retrieving Prime Page title **********
+04/18/2025 08:31:23 PM: INFO: ********** Retrieving Landing Page title for confirmation **********
+04/18/2025 08:31:23 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 08:31:23 PM: INFO: ********** Getting Corporates/SME dropdown results **********
+04/18/2025 08:31:24 PM: INFO: ********** Printing Corporates/SME dropdown results **********
+04/18/2025 08:31:24 PM: INFO: Number of dropdown items: 1
+04/18/2025 08:31:24 PM: INFO: ********** Clicking Corporate Travel Link **********
+04/18/2025 08:31:24 PM: INFO: ********** Switching to Corporate Travel window **********
+04/18/2025 08:31:27 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 08:31:27 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 08:31:27 PM: INFO: ********** Clicking yatra M.I.C.E Link **********
+04/18/2025 08:31:27 PM: INFO: ********** Switching to yatra M.I.C.E window **********
+04/18/2025 08:31:28 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 08:31:28 PM: INFO: ********** RECAP Link (Not working as expected so its deferred) **********
+04/18/2025 08:31:28 PM: INFO: ********** Clicking For Travel Agents Button **********
+04/18/2025 08:31:28 PM: INFO: ********** Switching to Travel Agent window **********
+04/18/2025 08:31:30 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 08:31:30 PM: INFO: ********** Clicking Login/SignUp dropdown **********
+04/18/2025 08:31:30 PM: INFO: ********** Getting Login/SignUp dropdown results **********
+04/18/2025 08:31:31 PM: INFO: ********** Printing Login/SignUp dropdown results **********
+04/18/2025 08:31:31 PM: INFO: Number of dropdown items: 1
+04/18/2025 08:31:31 PM: INFO: ********** Clicking Login/Create Account Link **********
+04/18/2025 08:31:32 PM: INFO: ********** Clicking yatra logo in Login/Create Account page **********
+04/18/2025 08:31:34 PM: INFO: ********** Returning back to landing page yatra.com **********
+04/18/2025 08:31:34 PM: INFO: ********** Switching to My Booking window **********
+04/18/2025 08:31:35 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 08:31:36 PM: INFO: ********** Switching to My Refund window **********
+04/18/2025 08:31:37 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 08:31:38 PM: INFO: ********** Test case started: test_flightsearch:Testing Flight Panel **********
+04/18/2025 08:37:06 PM: INFO: Logging initialized successfully
+04/18/2025 08:37:08 PM: INFO: ********** Test case started: test_landingpagetitle **********
+04/18/2025 08:37:08 PM: INFO: ********** Setting up the driver and navigating to the base URL **********
+04/18/2025 08:37:08 PM: INFO: ********** Maximizing the window **********
+04/18/2025 08:37:10 PM: INFO: ********** Waiting for the page to load **********
+04/18/2025 08:37:10 PM: INFO: ********** Retrieving Landing Page title **********
+04/18/2025 08:37:10 PM: INFO: ********** Clicking Prime Page button **********
+04/18/2025 08:37:12 PM: INFO: ********** Retrieving Prime Page title **********
+04/18/2025 08:37:15 PM: INFO: ********** Retrieving Landing Page title for confirmation **********
+04/18/2025 08:37:15 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 08:37:15 PM: INFO: ********** Getting Corporates/SME dropdown results **********
+04/18/2025 08:37:16 PM: INFO: ********** Printing Corporates/SME dropdown results **********
+04/18/2025 08:37:16 PM: INFO: Number of dropdown items: 1
+04/18/2025 08:37:16 PM: INFO: ********** Clicking Corporate Travel Link **********
+04/18/2025 08:37:16 PM: INFO: ********** Switching to Corporate Travel window **********
+04/18/2025 08:37:19 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 08:37:19 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 08:37:19 PM: INFO: ********** Clicking yatra M.I.C.E Link **********
+04/18/2025 08:37:19 PM: INFO: ********** Switching to yatra M.I.C.E window **********
+04/18/2025 08:37:20 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 08:37:20 PM: INFO: ********** RECAP Link (Not working as expected so its deferred) **********
+04/18/2025 08:37:20 PM: INFO: ********** Clicking For Travel Agents Button **********
+04/18/2025 08:37:20 PM: INFO: ********** Switching to Travel Agent window **********
+04/18/2025 08:37:23 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 08:37:23 PM: INFO: ********** Clicking Login/SignUp dropdown **********
+04/18/2025 08:37:23 PM: INFO: ********** Getting Login/SignUp dropdown results **********
+04/18/2025 08:37:23 PM: INFO: ********** Printing Login/SignUp dropdown results **********
+04/18/2025 08:37:23 PM: INFO: Number of dropdown items: 1
+04/18/2025 08:37:23 PM: INFO: ********** Clicking Login/Create Account Link **********
+04/18/2025 08:37:25 PM: INFO: ********** Clicking yatra logo in Login/Create Account page **********
+04/18/2025 08:37:26 PM: INFO: ********** Returning back to landing page yatra.com **********
+04/18/2025 08:37:27 PM: INFO: ********** Switching to My Booking window **********
+04/18/2025 08:37:28 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 08:37:29 PM: INFO: ********** Switching to My Refund window **********
+04/18/2025 08:37:30 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 08:37:32 PM: INFO: ********** Test case started: test_flightsearch : Testing Flight Panel **********
+04/18/2025 08:37:32 PM: INFO: ********** Retrieving Panel list buttons **********
+04/18/2025 08:37:42 PM: INFO: ********** Printing Panel list button names **********
+04/18/2025 08:39:05 PM: INFO: Logging initialized successfully
+04/18/2025 08:39:07 PM: INFO: ********** Test case started: test_flightsearch : Testing Flight Panel **********
+04/18/2025 08:39:07 PM: INFO: ********** Retrieving Panel list buttons **********
+04/18/2025 08:39:10 PM: INFO: ********** Printing Panel list button names **********
+04/18/2025 08:40:41 PM: INFO: Logging initialized successfully
+04/18/2025 08:40:41 PM: INFO: Logging initialized successfully
+04/18/2025 08:40:44 PM: INFO: ********** Test case started: test_landingpagetitle **********
+04/18/2025 08:40:44 PM: INFO: ********** Setting up the driver and navigating to the base URL **********
+04/18/2025 08:40:44 PM: INFO: ********** Test case started: test_flightsearch : Testing Flight Panel **********
+04/18/2025 08:40:44 PM: INFO: ********** Maximizing the window **********
+04/18/2025 08:40:49 PM: INFO: ********** Retrieving Panel list buttons **********
+04/18/2025 08:40:50 PM: INFO: ********** Printing Panel list button names **********
+04/18/2025 08:40:50 PM: INFO: ********** Waiting for the page to load **********
+04/18/2025 08:40:50 PM: INFO: ********** Retrieving Landing Page title **********
+04/18/2025 08:40:50 PM: INFO: ********** Clicking Prime Page button **********
+04/18/2025 08:40:52 PM: INFO: ********** Retrieving Prime Page title **********
+04/18/2025 08:40:55 PM: INFO: ********** Retrieving Landing Page title for confirmation **********
+04/18/2025 08:40:55 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 08:40:56 PM: INFO: ********** Getting Corporates/SME dropdown results **********
+04/18/2025 08:40:56 PM: INFO: ********** Printing Corporates/SME dropdown results **********
+04/18/2025 08:40:56 PM: INFO: Number of dropdown items: 1
+04/18/2025 08:40:56 PM: INFO: ********** Clicking Corporate Travel Link **********
+04/18/2025 08:40:56 PM: INFO: ********** Switching to Corporate Travel window **********
+04/18/2025 08:41:00 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 08:41:00 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 08:41:00 PM: INFO: ********** Clicking yatra M.I.C.E Link **********
+04/18/2025 08:41:00 PM: INFO: ********** Switching to yatra M.I.C.E window **********
+04/18/2025 08:41:01 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 08:41:01 PM: INFO: ********** RECAP Link (Not working as expected so its deferred) **********
+04/18/2025 08:41:01 PM: INFO: ********** Clicking For Travel Agents Button **********
+04/18/2025 08:41:01 PM: INFO: ********** Switching to Travel Agent window **********
+04/18/2025 08:41:04 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 08:41:04 PM: INFO: ********** Clicking Login/SignUp dropdown **********
+04/18/2025 08:41:04 PM: INFO: ********** Getting Login/SignUp dropdown results **********
+04/18/2025 08:41:04 PM: INFO: ********** Printing Login/SignUp dropdown results **********
+04/18/2025 08:41:04 PM: INFO: Number of dropdown items: 1
+04/18/2025 08:41:04 PM: INFO: ********** Clicking Login/Create Account Link **********
+04/18/2025 08:41:07 PM: INFO: ********** Clicking yatra logo in Login/Create Account page **********
+04/18/2025 08:41:08 PM: INFO: ********** Returning back to landing page yatra.com **********
+04/18/2025 08:41:09 PM: INFO: ********** Switching to My Booking window **********
+04/18/2025 08:41:10 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 08:41:11 PM: INFO: ********** Switching to My Refund window **********
+04/18/2025 08:41:12 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 08:46:08 PM: INFO: Logging initialized successfully
+04/18/2025 08:46:10 PM: INFO: ********** Test case started: test_landingpagetitle **********
+04/18/2025 08:46:10 PM: INFO: ********** Setting up the driver and navigating to the base URL **********
+04/18/2025 08:46:13 PM: INFO: ********** Maximizing the window **********
+04/18/2025 08:46:13 PM: INFO: ********** Waiting for the page to load **********
+04/18/2025 08:46:13 PM: INFO: ********** Retrieving Landing Page title **********
+04/18/2025 08:46:13 PM: INFO: ********** Clicking Prime Page button **********
+04/18/2025 08:46:15 PM: INFO: ********** Retrieving Prime Page title **********
+04/18/2025 08:46:18 PM: INFO: ********** Retrieving Landing Page title for confirmation **********
+04/18/2025 08:46:18 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 08:46:19 PM: INFO: ********** Getting Corporates/SME dropdown results **********
+04/18/2025 08:46:20 PM: INFO: ********** Printing Corporates/SME dropdown results **********
+04/18/2025 08:46:20 PM: INFO: Number of dropdown items: 1
+04/18/2025 08:46:20 PM: INFO: ********** Clicking Corporate Travel Link **********
+04/18/2025 08:46:20 PM: INFO: ********** Switching to Corporate Travel window **********
+04/18/2025 08:46:24 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 08:46:24 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 08:46:24 PM: INFO: ********** Clicking yatra M.I.C.E Link **********
+04/18/2025 08:46:24 PM: INFO: ********** Switching to yatra M.I.C.E window **********
+04/18/2025 08:46:25 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 08:46:25 PM: INFO: ********** RECAP Link (Not working as expected so its deferred) **********
+04/18/2025 08:46:25 PM: INFO: ********** Clicking For Travel Agents Button **********
+04/18/2025 08:46:26 PM: INFO: ********** Switching to Travel Agent window **********
+04/18/2025 08:46:28 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 08:46:28 PM: INFO: ********** Clicking Login/SignUp dropdown **********
+04/18/2025 08:46:28 PM: INFO: ********** Getting Login/SignUp dropdown results **********
+04/18/2025 08:46:28 PM: INFO: ********** Printing Login/SignUp dropdown results **********
+04/18/2025 08:46:28 PM: INFO: Number of dropdown items: 1
+04/18/2025 08:46:28 PM: INFO: ********** Clicking Login/Create Account Link **********
+04/18/2025 08:46:30 PM: INFO: ********** Clicking yatra logo in Login/Create Account page **********
+04/18/2025 08:46:30 PM: INFO: ********** Returning back to landing page yatra.com **********
+04/18/2025 08:46:32 PM: INFO: ********** Switching to My Booking window **********
+04/18/2025 08:46:33 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 08:46:37 PM: INFO: ********** Test case started: test_flightsearch : Testing Flight Panel **********
+04/18/2025 08:46:37 PM: INFO: ********** Navigating to URL **********
+04/18/2025 08:46:40 PM: INFO: ********** Maximizing the window **********
+04/18/2025 08:46:41 PM: INFO: ********** Retrieving Panel list buttons **********
+04/18/2025 08:46:41 PM: INFO: ********** Printing Panel list button names **********
+04/18/2025 08:46:41 PM: INFO: Number of Panel List items: 63
+04/18/2025 08:56:31 PM: INFO: Logging initialized successfully
+04/18/2025 08:56:33 PM: INFO: ********** Test case started: test_landingpagetitle **********
+04/18/2025 08:56:33 PM: INFO: ********** Setting up the driver and navigating to the base URL **********
+04/18/2025 08:56:37 PM: INFO: ********** Maximizing the window **********
+04/18/2025 08:56:37 PM: INFO: ********** Waiting for the page to load **********
+04/18/2025 08:56:37 PM: INFO: ********** Retrieving Landing Page title **********
+04/18/2025 08:56:37 PM: INFO: ********** Clicking Prime Page button **********
+04/18/2025 08:56:38 PM: INFO: ********** Retrieving Prime Page title **********
+04/18/2025 08:56:41 PM: INFO: ********** Retrieving Landing Page title for confirmation **********
+04/18/2025 08:56:42 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 08:56:42 PM: INFO: ********** Getting Corporates/SME dropdown results **********
+04/18/2025 08:56:42 PM: INFO: ********** Printing Corporates/SME dropdown results **********
+04/18/2025 08:56:42 PM: INFO: Number of dropdown items: 1
+04/18/2025 08:56:42 PM: INFO: ********** Clicking Corporate Travel Link **********
+04/18/2025 08:56:43 PM: INFO: ********** Switching to Corporate Travel window **********
+04/18/2025 08:56:45 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 08:56:45 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 08:56:45 PM: INFO: ********** Clicking yatra M.I.C.E Link **********
+04/18/2025 08:56:46 PM: INFO: ********** Switching to yatra M.I.C.E window **********
+04/18/2025 08:56:46 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 08:56:46 PM: INFO: ********** RECAP Link (Not working as expected so its deferred) **********
+04/18/2025 08:56:46 PM: INFO: ********** Clicking For Travel Agents Button **********
+04/18/2025 08:56:47 PM: INFO: ********** Switching to Travel Agent window **********
+04/18/2025 08:56:49 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 08:56:49 PM: INFO: ********** Clicking Login/SignUp dropdown **********
+04/18/2025 08:56:50 PM: INFO: ********** Getting Login/SignUp dropdown results **********
+04/18/2025 08:56:50 PM: INFO: ********** Printing Login/SignUp dropdown results **********
+04/18/2025 08:56:50 PM: INFO: Number of dropdown items: 1
+04/18/2025 08:56:50 PM: INFO: ********** Clicking Login/Create Account Link **********
+04/18/2025 08:56:52 PM: INFO: ********** Clicking yatra logo in Login/Create Account page **********
+04/18/2025 08:56:53 PM: INFO: ********** Returning back to landing page yatra.com **********
+04/18/2025 08:56:54 PM: INFO: ********** Switching to My Booking window **********
+04/18/2025 08:56:56 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 08:56:56 PM: INFO: ********** Switching to My Refund window **********
+04/18/2025 08:56:57 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 08:56:59 PM: INFO: ********** Test case started: test_flightsearch : Testing Flight Panel **********
+04/18/2025 08:56:59 PM: INFO: ********** Navigating to URL **********
+04/18/2025 08:57:03 PM: INFO: ********** Maximizing the window **********
+04/18/2025 08:57:03 PM: INFO: ********** Retrieving Panel list buttons **********
+04/18/2025 08:57:04 PM: INFO: ********** Printing Panel list button names **********
+04/18/2025 08:57:04 PM: INFO: Number of Panel List items: ['F', 'l', 'i', 'g', 'h', 't', 's', '\n', 'H', 'o', 't', 'e', 'l', 's', '\n', 'H', 'o', 'l', 'i', 'd', 'a', 'y', 's', '\n', 'B', 'u', 's', '\n', 'T', 'r', 'a', 'i', 'n', 's', '\n', 'C', 'a', 'b', 's', '\n', 'C', 'l', 'a', 'i', 'm', ' ', 'y', 'o', 'u', 'r', ' ', 'C', 'o', 'v', 'i', 'd', ' ', 'R', 'e', 'f', 'u', 'n', 'd']
+04/18/2025 09:03:26 PM: INFO: Logging initialized successfully
+04/18/2025 09:03:28 PM: INFO: ********** Test case started: test_landingpagetitle **********
+04/18/2025 09:03:28 PM: INFO: ********** Setting up the driver and navigating to the base URL **********
+04/18/2025 09:03:28 PM: INFO: ********** Maximizing the window **********
+04/18/2025 09:03:31 PM: INFO: ********** Waiting for the page to load **********
+04/18/2025 09:03:31 PM: INFO: ********** Retrieving Landing Page title **********
+04/18/2025 09:03:31 PM: INFO: ********** Clicking Prime Page button **********
+04/18/2025 09:03:33 PM: INFO: ********** Retrieving Prime Page title **********
+04/18/2025 09:03:36 PM: INFO: ********** Retrieving Landing Page title for confirmation **********
+04/18/2025 09:03:36 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 09:03:36 PM: INFO: ********** Getting Corporates/SME dropdown results **********
+04/18/2025 09:03:37 PM: INFO: ********** Printing Corporates/SME dropdown results **********
+04/18/2025 09:03:37 PM: INFO: Number of dropdown items: 1
+04/18/2025 09:03:37 PM: INFO: ********** Clicking Corporate Travel Link **********
+04/18/2025 09:03:37 PM: INFO: ********** Switching to Corporate Travel window **********
+04/18/2025 09:03:39 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:03:39 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 09:03:40 PM: INFO: ********** Clicking yatra M.I.C.E Link **********
+04/18/2025 09:03:40 PM: INFO: ********** Switching to yatra M.I.C.E window **********
+04/18/2025 09:03:41 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:03:41 PM: INFO: ********** RECAP Link (Not working as expected so its deferred) **********
+04/18/2025 09:03:41 PM: INFO: ********** Clicking For Travel Agents Button **********
+04/18/2025 09:03:41 PM: INFO: ********** Switching to Travel Agent window **********
+04/18/2025 09:03:44 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:03:44 PM: INFO: ********** Clicking Login/SignUp dropdown **********
+04/18/2025 09:03:44 PM: INFO: ********** Getting Login/SignUp dropdown results **********
+04/18/2025 09:03:45 PM: INFO: ********** Printing Login/SignUp dropdown results **********
+04/18/2025 09:03:45 PM: INFO: Number of dropdown items: 1
+04/18/2025 09:03:45 PM: INFO: ********** Clicking Login/Create Account Link **********
+04/18/2025 09:03:47 PM: INFO: ********** Clicking yatra logo in Login/Create Account page **********
+04/18/2025 09:03:48 PM: INFO: ********** Returning back to landing page yatra.com **********
+04/18/2025 09:03:49 PM: INFO: ********** Switching to My Booking window **********
+04/18/2025 09:03:50 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:03:54 PM: INFO: ********** Test case started: test_flightsearch : Testing Flight Panel **********
+04/18/2025 09:03:54 PM: INFO: ********** Navigating to URL **********
+04/18/2025 09:03:54 PM: INFO: ********** Maximizing the window **********
+04/18/2025 09:03:58 PM: INFO: ********** Retrieving Panel list buttons **********
+04/18/2025 09:03:58 PM: INFO: ********** Printing Panel list button names **********
+04/18/2025 09:03:58 PM: INFO: Number of Panel List items: Flights
+Hotels
+Holidays
+Bus
+Trains
+Cabs
+Claim your Covid Refund
+04/18/2025 09:09:48 PM: INFO: Logging initialized successfully
+04/18/2025 09:09:50 PM: INFO: ********** Test case started: test_landingpagetitle **********
+04/18/2025 09:09:50 PM: INFO: ********** Setting up the driver and navigating to the base URL **********
+04/18/2025 09:09:52 PM: INFO: ********** Maximizing the window **********
+04/18/2025 09:09:52 PM: INFO: ********** Waiting for the page to load **********
+04/18/2025 09:09:52 PM: INFO: ********** Retrieving Landing Page title **********
+04/18/2025 09:09:53 PM: INFO: ********** Clicking Prime Page button **********
+04/18/2025 09:09:55 PM: INFO: ********** Retrieving Prime Page title **********
+04/18/2025 09:09:58 PM: INFO: ********** Retrieving Landing Page title for confirmation **********
+04/18/2025 09:09:58 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 09:09:58 PM: INFO: ********** Getting Corporates/SME dropdown results **********
+04/18/2025 09:09:59 PM: INFO: ********** Printing Corporates/SME dropdown results **********
+04/18/2025 09:09:59 PM: INFO: Number of dropdown items: 1
+04/18/2025 09:09:59 PM: INFO: ********** Clicking Corporate Travel Link **********
+04/18/2025 09:09:59 PM: INFO: ********** Switching to Corporate Travel window **********
+04/18/2025 09:10:01 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:10:01 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 09:10:02 PM: INFO: ********** Clicking yatra M.I.C.E Link **********
+04/18/2025 09:10:02 PM: INFO: ********** Switching to yatra M.I.C.E window **********
+04/18/2025 09:10:02 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:10:02 PM: INFO: ********** RECAP Link (Not working as expected so its deferred) **********
+04/18/2025 09:10:02 PM: INFO: ********** Clicking For Travel Agents Button **********
+04/18/2025 09:10:03 PM: INFO: ********** Switching to Travel Agent window **********
+04/18/2025 09:10:05 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:10:05 PM: INFO: ********** Clicking Login/SignUp dropdown **********
+04/18/2025 09:10:05 PM: INFO: ********** Getting Login/SignUp dropdown results **********
+04/18/2025 09:10:05 PM: INFO: ********** Printing Login/SignUp dropdown results **********
+04/18/2025 09:10:05 PM: INFO: Number of dropdown items: 1
+04/18/2025 09:10:05 PM: INFO: ********** Clicking Login/Create Account Link **********
+04/18/2025 09:10:08 PM: INFO: ********** Clicking yatra logo in Login/Create Account page **********
+04/18/2025 09:10:10 PM: INFO: ********** Returning back to landing page yatra.com **********
+04/18/2025 09:10:11 PM: INFO: ********** Switching to My Booking window **********
+04/18/2025 09:10:12 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:10:13 PM: INFO: ********** Switching to My Refund window **********
+04/18/2025 09:10:14 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:10:16 PM: INFO: ********** Test case started: test_flightsearch : Testing Flight Panel **********
+04/18/2025 09:10:16 PM: INFO: ********** Navigating to URL **********
+04/18/2025 09:10:19 PM: INFO: ********** Maximizing the window **********
+04/18/2025 09:10:19 PM: INFO: ********** Retrieving Panel list buttons **********
+04/18/2025 09:10:20 PM: INFO: Number of Panel List items: Flights
+Hotels
+Holidays
+Bus
+Trains
+Cabs
+Claim your Covid Refund
+04/18/2025 09:28:57 PM: INFO: Logging initialized successfully
+04/18/2025 09:29:05 PM: INFO: ********** Test case started: test_landingpagetitle **********
+04/18/2025 09:29:05 PM: INFO: ********** Setting up the driver and navigating to the base URL **********
+04/18/2025 09:29:05 PM: INFO: ********** Maximizing the window **********
+04/18/2025 09:29:05 PM: INFO: ********** Waiting for the page to load **********
+04/18/2025 09:29:05 PM: INFO: ********** Retrieving Landing Page title **********
+04/18/2025 09:29:05 PM: INFO: ********** Clicking Prime Page button **********
+04/18/2025 09:29:07 PM: INFO: ********** Retrieving Prime Page title **********
+04/18/2025 09:29:09 PM: INFO: ********** Retrieving Landing Page title for confirmation **********
+04/18/2025 09:29:10 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 09:29:10 PM: INFO: ********** Getting Corporates/SME dropdown results **********
+04/18/2025 09:29:11 PM: INFO: ********** Printing Corporates/SME dropdown results **********
+04/18/2025 09:29:11 PM: INFO: Number of dropdown items: 1
+04/18/2025 09:29:11 PM: INFO: ********** Clicking Corporate Travel Link **********
+04/18/2025 09:29:11 PM: INFO: ********** Switching to Corporate Travel window **********
+04/18/2025 09:29:14 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:29:14 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 09:29:15 PM: INFO: ********** Clicking yatra M.I.C.E Link **********
+04/18/2025 09:29:15 PM: INFO: ********** Switching to yatra M.I.C.E window **********
+04/18/2025 09:29:16 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:29:16 PM: INFO: ********** RECAP Link (Not working as expected so its deferred) **********
+04/18/2025 09:29:16 PM: INFO: ********** Clicking For Travel Agents Button **********
+04/18/2025 09:29:17 PM: INFO: ********** Switching to Travel Agent window **********
+04/18/2025 09:29:20 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:29:20 PM: INFO: ********** Clicking Login/SignUp dropdown **********
+04/18/2025 09:29:20 PM: INFO: ********** Getting Login/SignUp dropdown results **********
+04/18/2025 09:29:21 PM: INFO: ********** Printing Login/SignUp dropdown results **********
+04/18/2025 09:29:21 PM: INFO: Number of dropdown items: 1
+04/18/2025 09:29:21 PM: INFO: ********** Clicking Login/Create Account Link **********
+04/18/2025 09:29:24 PM: INFO: ********** Clicking yatra logo in Login/Create Account page **********
+04/18/2025 09:29:26 PM: INFO: ********** Returning back to landing page yatra.com **********
+04/18/2025 09:29:27 PM: INFO: ********** Switching to My Booking window **********
+04/18/2025 09:29:29 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:29:30 PM: INFO: ********** Switching to My Refund window **********
+04/18/2025 09:29:31 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:29:33 PM: INFO: ********** Test case started: test_flightsearch : Testing Flight Panel **********
+04/18/2025 09:29:33 PM: INFO: ********** Navigating to URL **********
+04/18/2025 09:29:33 PM: INFO: ********** Maximizing the window **********
+04/18/2025 09:29:33 PM: INFO: ********** Retrieving Panel list buttons **********
+04/18/2025 09:29:33 PM: INFO: Number of Panel List items: Flights
+Hotels
+Holidays
+Bus
+Trains
+Cabs
+Claim your Covid Refund
+04/18/2025 09:37:04 PM: INFO: Logging initialized successfully
+04/18/2025 09:37:10 PM: INFO: ********** Test case started: test_landingpagetitle **********
+04/18/2025 09:37:10 PM: INFO: ********** Setting up the driver and navigating to the base URL **********
+04/18/2025 09:37:10 PM: INFO: ********** Maximizing the window **********
+04/18/2025 09:37:10 PM: INFO: ********** Waiting for the page to load **********
+04/18/2025 09:37:10 PM: INFO: ********** Retrieving Landing Page title **********
+04/18/2025 09:37:10 PM: INFO: ********** Clicking Prime Page button **********
+04/18/2025 09:37:11 PM: INFO: ********** Retrieving Prime Page title **********
+04/18/2025 09:37:14 PM: INFO: ********** Retrieving Landing Page title for confirmation **********
+04/18/2025 09:37:14 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 09:37:15 PM: INFO: ********** Getting Corporates/SME dropdown results **********
+04/18/2025 09:37:15 PM: INFO: ********** Printing Corporates/SME dropdown results **********
+04/18/2025 09:37:15 PM: INFO: Number of dropdown items: 1
+04/18/2025 09:37:15 PM: INFO: ********** Clicking Corporate Travel Link **********
+04/18/2025 09:37:15 PM: INFO: ********** Switching to Corporate Travel window **********
+04/18/2025 09:37:18 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:37:18 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 09:37:18 PM: INFO: ********** Clicking yatra M.I.C.E Link **********
+04/18/2025 09:37:19 PM: INFO: ********** Switching to yatra M.I.C.E window **********
+04/18/2025 09:37:19 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:37:19 PM: INFO: ********** RECAP Link (Not working as expected so its deferred) **********
+04/18/2025 09:37:19 PM: INFO: ********** Clicking For Travel Agents Button **********
+04/18/2025 09:37:20 PM: INFO: ********** Switching to Travel Agent window **********
+04/18/2025 09:37:22 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:37:22 PM: INFO: ********** Clicking Login/SignUp dropdown **********
+04/18/2025 09:37:23 PM: INFO: ********** Getting Login/SignUp dropdown results **********
+04/18/2025 09:37:23 PM: INFO: ********** Printing Login/SignUp dropdown results **********
+04/18/2025 09:37:23 PM: INFO: Number of dropdown items: 1
+04/18/2025 09:37:23 PM: INFO: ********** Clicking Login/Create Account Link **********
+04/18/2025 09:37:25 PM: INFO: ********** Clicking yatra logo in Login/Create Account page **********
+04/18/2025 09:37:27 PM: INFO: ********** Returning back to landing page yatra.com **********
+04/18/2025 09:37:28 PM: INFO: ********** Switching to My Booking window **********
+04/18/2025 09:37:29 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:37:29 PM: INFO: ********** Switching to My Refund window **********
+04/18/2025 09:37:30 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:37:32 PM: INFO: ********** Test case started: test_flight_search : Testing Flight Panel **********
+04/18/2025 09:37:32 PM: INFO: ********** Navigating to URL **********
+04/18/2025 09:37:32 PM: INFO: ********** Maximizing the window **********
+04/18/2025 09:37:32 PM: INFO: ********** Retrieving Panel list buttons **********
+04/18/2025 09:37:32 PM: INFO: Number of Panel List items: 63
+04/18/2025 09:39:32 PM: INFO: Logging initialized successfully
+04/18/2025 09:39:39 PM: INFO: ********** Test case started: test_landingpagetitle **********
+04/18/2025 09:39:39 PM: INFO: ********** Setting up the driver and navigating to the base URL **********
+04/18/2025 09:39:39 PM: INFO: ********** Maximizing the window **********
+04/18/2025 09:39:39 PM: INFO: ********** Waiting for the page to load **********
+04/18/2025 09:39:39 PM: INFO: ********** Retrieving Landing Page title **********
+04/18/2025 09:39:39 PM: INFO: ********** Clicking Prime Page button **********
+04/18/2025 09:39:40 PM: INFO: ********** Retrieving Prime Page title **********
+04/18/2025 09:39:44 PM: INFO: ********** Retrieving Landing Page title for confirmation **********
+04/18/2025 09:39:44 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 09:39:44 PM: INFO: ********** Getting Corporates/SME dropdown results **********
+04/18/2025 09:39:44 PM: INFO: ********** Printing Corporates/SME dropdown results **********
+04/18/2025 09:39:44 PM: INFO: Number of dropdown items: 1
+04/18/2025 09:39:44 PM: INFO: ********** Clicking Corporate Travel Link **********
+04/18/2025 09:39:45 PM: INFO: ********** Switching to Corporate Travel window **********
+04/18/2025 09:39:48 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:39:48 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 09:39:48 PM: INFO: ********** Clicking yatra M.I.C.E Link **********
+04/18/2025 09:39:48 PM: INFO: ********** Switching to yatra M.I.C.E window **********
+04/18/2025 09:39:49 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:39:49 PM: INFO: ********** RECAP Link (Not working as expected so its deferred) **********
+04/18/2025 09:39:49 PM: INFO: ********** Clicking For Travel Agents Button **********
+04/18/2025 09:39:49 PM: INFO: ********** Switching to Travel Agent window **********
+04/18/2025 09:39:52 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:39:52 PM: INFO: ********** Clicking Login/SignUp dropdown **********
+04/18/2025 09:39:52 PM: INFO: ********** Getting Login/SignUp dropdown results **********
+04/18/2025 09:39:52 PM: INFO: ********** Printing Login/SignUp dropdown results **********
+04/18/2025 09:39:52 PM: INFO: Number of dropdown items: 1
+04/18/2025 09:39:52 PM: INFO: ********** Clicking Login/Create Account Link **********
+04/18/2025 09:39:54 PM: INFO: ********** Clicking yatra logo in Login/Create Account page **********
+04/18/2025 09:39:55 PM: INFO: ********** Returning back to landing page yatra.com **********
+04/18/2025 09:39:57 PM: INFO: ********** Switching to My Booking window **********
+04/18/2025 09:39:58 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:39:58 PM: INFO: ********** Switching to My Refund window **********
+04/18/2025 09:40:00 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:40:02 PM: INFO: ********** Test case started: test_flight_search : Testing Flight Panel **********
+04/18/2025 09:40:02 PM: INFO: ********** Navigating to URL **********
+04/18/2025 09:40:02 PM: INFO: ********** Maximizing the window **********
+04/18/2025 09:40:02 PM: INFO: ********** Retrieving Panel list buttons **********
+04/18/2025 09:40:02 PM: INFO: Number of Panel List items: Flights
+Hotels
+Holidays
+Bus
+Trains
+Cabs
+Claim your Covid Refund
+04/18/2025 09:45:14 PM: INFO: Logging initialized successfully
+04/18/2025 09:45:22 PM: INFO: ********** Test case started: test_landingpagetitle **********
+04/18/2025 09:45:22 PM: INFO: ********** Setting up the driver and navigating to the base URL **********
+04/18/2025 09:45:22 PM: INFO: ********** Maximizing the window **********
+04/18/2025 09:45:22 PM: INFO: ********** Waiting for the page to load **********
+04/18/2025 09:45:22 PM: INFO: ********** Retrieving Landing Page title **********
+04/18/2025 09:45:22 PM: INFO: ********** Clicking Prime Page button **********
+04/18/2025 09:45:23 PM: INFO: ********** Retrieving Prime Page title **********
+04/18/2025 09:45:27 PM: INFO: ********** Retrieving Landing Page title for confirmation **********
+04/18/2025 09:45:27 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 09:45:27 PM: INFO: ********** Getting Corporates/SME dropdown results **********
+04/18/2025 09:45:27 PM: INFO: ********** Printing Corporates/SME dropdown results **********
+04/18/2025 09:45:27 PM: INFO: Number of dropdown items: 1
+04/18/2025 09:45:27 PM: INFO: ********** Clicking Corporate Travel Link **********
+04/18/2025 09:45:28 PM: INFO: ********** Switching to Corporate Travel window **********
+04/18/2025 09:45:31 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:45:31 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 09:45:31 PM: INFO: ********** Clicking yatra M.I.C.E Link **********
+04/18/2025 09:45:31 PM: INFO: ********** Switching to yatra M.I.C.E window **********
+04/18/2025 09:45:32 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:45:32 PM: INFO: ********** RECAP Link (Not working as expected so its deferred) **********
+04/18/2025 09:45:32 PM: INFO: ********** Clicking For Travel Agents Button **********
+04/18/2025 09:45:32 PM: INFO: ********** Switching to Travel Agent window **********
+04/18/2025 09:45:35 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:45:35 PM: INFO: ********** Clicking Login/SignUp dropdown **********
+04/18/2025 09:45:35 PM: INFO: ********** Getting Login/SignUp dropdown results **********
+04/18/2025 09:45:36 PM: INFO: ********** Printing Login/SignUp dropdown results **********
+04/18/2025 09:45:36 PM: INFO: Number of dropdown items: 1
+04/18/2025 09:45:36 PM: INFO: ********** Clicking Login/Create Account Link **********
+04/18/2025 09:45:38 PM: INFO: ********** Clicking yatra logo in Login/Create Account page **********
+04/18/2025 09:45:39 PM: INFO: ********** Returning back to landing page yatra.com **********
+04/18/2025 09:45:40 PM: INFO: ********** Switching to My Booking window **********
+04/18/2025 09:45:41 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:45:45 PM: INFO: ********** Test case started: test_flight_search : Testing Flight Panel **********
+04/18/2025 09:45:45 PM: INFO: ********** Navigating to URL **********
+04/18/2025 09:45:45 PM: INFO: ********** Maximizing the window **********
+04/18/2025 09:45:45 PM: INFO: ********** Retrieving Panel list buttons **********
+04/18/2025 09:45:45 PM: INFO: Panel List items: Flights
+Hotels
+Holidays
+Bus
+Trains
+Cabs
+Claim your Covid Refund
+04/18/2025 09:58:31 PM: INFO: Logging initialized successfully
+04/18/2025 09:58:40 PM: INFO: ********** Test case started: test_landingpagetitle **********
+04/18/2025 09:58:40 PM: INFO: ********** Setting up the driver and navigating to the base URL **********
+04/18/2025 09:58:40 PM: INFO: ********** Maximizing the window **********
+04/18/2025 09:58:40 PM: INFO: ********** Waiting for the page to load **********
+04/18/2025 09:58:40 PM: INFO: ********** Retrieving Landing Page title **********
+04/18/2025 09:58:40 PM: INFO: ********** Clicking Prime Page button **********
+04/18/2025 09:58:42 PM: INFO: ********** Retrieving Prime Page title **********
+04/18/2025 09:58:44 PM: INFO: ********** Retrieving Landing Page title for confirmation **********
+04/18/2025 09:58:44 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 09:58:45 PM: INFO: ********** Getting Corporates/SME dropdown results **********
+04/18/2025 09:58:45 PM: INFO: ********** Printing Corporates/SME dropdown results **********
+04/18/2025 09:58:45 PM: INFO: Number of dropdown items: 1
+04/18/2025 09:58:45 PM: INFO: ********** Clicking Corporate Travel Link **********
+04/18/2025 09:58:45 PM: INFO: ********** Switching to Corporate Travel window **********
+04/18/2025 09:58:48 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:58:48 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 09:58:48 PM: INFO: ********** Clicking yatra M.I.C.E Link **********
+04/18/2025 09:58:49 PM: INFO: ********** Switching to yatra M.I.C.E window **********
+04/18/2025 09:58:50 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:58:50 PM: INFO: ********** RECAP Link (Not working as expected so its deferred) **********
+04/18/2025 09:58:50 PM: INFO: ********** Clicking For Travel Agents Button **********
+04/18/2025 09:58:50 PM: INFO: ********** Switching to Travel Agent window **********
+04/18/2025 09:58:53 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:58:53 PM: INFO: ********** Clicking Login/SignUp dropdown **********
+04/18/2025 09:58:53 PM: INFO: ********** Getting Login/SignUp dropdown results **********
+04/18/2025 09:58:53 PM: INFO: ********** Printing Login/SignUp dropdown results **********
+04/18/2025 09:58:53 PM: INFO: Number of dropdown items: 1
+04/18/2025 09:58:53 PM: INFO: ********** Clicking Login/Create Account Link **********
+04/18/2025 09:58:58 PM: INFO: ********** Clicking yatra logo in Login/Create Account page **********
+04/18/2025 09:58:59 PM: INFO: ********** Returning back to landing page yatra.com **********
+04/18/2025 09:59:00 PM: INFO: ********** Switching to My Booking window **********
+04/18/2025 09:59:02 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:59:02 PM: INFO: ********** Switching to My Refund window **********
+04/18/2025 09:59:04 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 09:59:06 PM: INFO: ********** Test case started: test_flight_search : Testing Flight Panel **********
+04/18/2025 09:59:06 PM: INFO: ********** Navigating to URL **********
+04/18/2025 09:59:07 PM: INFO: ********** Maximizing the window **********
+04/18/2025 09:59:07 PM: INFO: ********** Retrieving Panel list buttons **********
+04/18/2025 09:59:07 PM: INFO: Panel List items: Flights
+Hotels
+Holidays
+Bus
+Trains
+Cabs
+Claim your Covid Refund
+04/18/2025 10:01:46 PM: INFO: Logging initialized successfully
+04/18/2025 10:01:54 PM: INFO: ********** Test case started: test_landingpagetitle **********
+04/18/2025 10:01:54 PM: INFO: ********** Setting up the driver and navigating to the base URL **********
+04/18/2025 10:01:54 PM: INFO: ********** Maximizing the window **********
+04/18/2025 10:01:54 PM: INFO: ********** Waiting for the page to load **********
+04/18/2025 10:01:54 PM: INFO: ********** Retrieving Landing Page title **********
+04/18/2025 10:01:54 PM: INFO: ********** Clicking Prime Page button **********
+04/18/2025 10:01:55 PM: INFO: ********** Retrieving Prime Page title **********
+04/18/2025 10:01:58 PM: INFO: ********** Retrieving Landing Page title for confirmation **********
+04/18/2025 10:01:58 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 10:01:58 PM: INFO: ********** Getting Corporates/SME dropdown results **********
+04/18/2025 10:01:59 PM: INFO: ********** Printing Corporates/SME dropdown results **********
+04/18/2025 10:01:59 PM: INFO: Number of dropdown items: 1
+04/18/2025 10:01:59 PM: INFO: ********** Clicking Corporate Travel Link **********
+04/18/2025 10:01:59 PM: INFO: ********** Switching to Corporate Travel window **********
+04/18/2025 10:02:02 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 10:02:02 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 10:02:02 PM: INFO: ********** Clicking yatra M.I.C.E Link **********
+04/18/2025 10:02:02 PM: INFO: ********** Switching to yatra M.I.C.E window **********
+04/18/2025 10:02:03 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 10:02:03 PM: INFO: ********** RECAP Link (Not working as expected so its deferred) **********
+04/18/2025 10:02:03 PM: INFO: ********** Clicking For Travel Agents Button **********
+04/18/2025 10:02:03 PM: INFO: ********** Switching to Travel Agent window **********
+04/18/2025 10:02:05 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 10:02:05 PM: INFO: ********** Clicking Login/SignUp dropdown **********
+04/18/2025 10:02:05 PM: INFO: ********** Getting Login/SignUp dropdown results **********
+04/18/2025 10:02:05 PM: INFO: ********** Printing Login/SignUp dropdown results **********
+04/18/2025 10:02:05 PM: INFO: Number of dropdown items: 1
+04/18/2025 10:02:05 PM: INFO: ********** Clicking Login/Create Account Link **********
+04/18/2025 10:02:09 PM: INFO: ********** Clicking yatra logo in Login/Create Account page **********
+04/18/2025 10:02:10 PM: INFO: ********** Returning back to landing page yatra.com **********
+04/18/2025 10:02:11 PM: INFO: ********** Switching to My Booking window **********
+04/18/2025 10:02:13 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 10:02:14 PM: INFO: ********** Switching to My Refund window **********
+04/18/2025 10:02:17 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 10:02:19 PM: INFO: ********** Test case started: test_flight_search : Testing Flight Panel **********
+04/18/2025 10:02:19 PM: INFO: ********** Navigating to URL **********
+04/18/2025 10:02:21 PM: INFO: ********** Maximizing the window **********
+04/18/2025 10:02:21 PM: INFO: ********** Retrieving Panel list buttons **********
+04/18/2025 10:02:21 PM: INFO: Panel List items: Flights
+Hotels
+Holidays
+Bus
+Trains
+Cabs
+Claim your Covid Refund
+04/18/2025 10:05:00 PM: INFO: Logging initialized successfully
+04/18/2025 10:08:38 PM: INFO: Logging initialized successfully
+04/18/2025 10:08:50 PM: INFO: ********** Test case started: test_landingpagetitle **********
+04/18/2025 10:08:50 PM: INFO: ********** Setting up the driver and navigating to the base URL **********
+04/18/2025 10:08:50 PM: INFO: ********** Maximizing the window **********
+04/18/2025 10:08:50 PM: INFO: ********** Waiting for the page to load **********
+04/18/2025 10:08:50 PM: INFO: ********** Retrieving Landing Page title **********
+04/18/2025 10:08:50 PM: INFO: ********** Clicking Prime Page button **********
+04/18/2025 10:08:51 PM: INFO: ********** Retrieving Prime Page title **********
+04/18/2025 10:08:54 PM: INFO: ********** Retrieving Landing Page title for confirmation **********
+04/18/2025 10:08:54 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 10:08:55 PM: INFO: ********** Getting Corporates/SME dropdown results **********
+04/18/2025 10:08:55 PM: INFO: ********** Printing Corporates/SME dropdown results **********
+04/18/2025 10:08:55 PM: INFO: Number of dropdown items: 1
+04/18/2025 10:08:55 PM: INFO: ********** Clicking Corporate Travel Link **********
+04/18/2025 10:08:55 PM: INFO: ********** Switching to Corporate Travel window **********
+04/18/2025 10:09:00 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 10:09:00 PM: INFO: ********** Clicking Corporates/SME Button **********
+04/18/2025 10:09:00 PM: INFO: ********** Clicking yatra M.I.C.E Link **********
+04/18/2025 10:09:00 PM: INFO: ********** Switching to yatra M.I.C.E window **********
+04/18/2025 10:09:02 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 10:09:02 PM: INFO: ********** RECAP Link (Not working as expected so its deferred) **********
+04/18/2025 10:09:02 PM: INFO: ********** Clicking For Travel Agents Button **********
+04/18/2025 10:09:02 PM: INFO: ********** Switching to Travel Agent window **********
+04/18/2025 10:09:36 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 10:09:36 PM: INFO: ********** Clicking Login/SignUp dropdown **********
+04/18/2025 10:09:36 PM: INFO: ********** Getting Login/SignUp dropdown results **********
+04/18/2025 10:09:37 PM: INFO: ********** Printing Login/SignUp dropdown results **********
+04/18/2025 10:09:37 PM: INFO: Number of dropdown items: 1
+04/18/2025 10:09:37 PM: INFO: ********** Clicking Login/Create Account Link **********
+04/18/2025 10:10:00 PM: INFO: ********** Clicking yatra logo in Login/Create Account page **********
+04/18/2025 10:10:14 PM: INFO: ********** Returning back to landing page yatra.com **********
+04/18/2025 10:10:14 PM: INFO: ********** Switching to My Booking window **********
+04/18/2025 10:10:17 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 10:10:17 PM: INFO: ********** Switching to My Refund window **********
+04/18/2025 10:10:21 PM: INFO: ********** Switching back to parent window **********
+04/18/2025 10:10:23 PM: INFO: ********** Test case started: test_flight_search : Testing Flight Panel **********
+04/18/2025 10:10:23 PM: INFO: ********** Navigating to URL **********
+04/18/2025 10:10:25 PM: INFO: ********** Maximizing the window **********
+04/18/2025 10:10:25 PM: INFO: ********** Retrieving Panel list buttons **********
+04/18/2025 10:10:25 PM: INFO: Panel List items: Flights
+Hotels
+Holidays
+Bus
+Trains
+Cabs
+Claim your Covid Refund
