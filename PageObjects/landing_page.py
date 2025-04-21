@@ -15,7 +15,7 @@ class LandingPage:
     corporate_travel_link_xpath = "//body[1]/div[3]/div[3]/div[1]/div[1]/p[1]"
     yatra_mice_link_xpath = "//body[1]/div[3]/div[3]/div[1]/div[1]/p[2]"
 
-    travel_agent_title_xpath = "//span[@type='travel-agent']"
+    travel_agent_title_xpath = "//div[@class='MuiStack-root css-v1gwbx']"
     login_signup_title_xpath = "//*[@id='__next']/div/div[1]/div[1]/div/div[2]/div[3]/p"
     login_createaccount_link_xpath = "//p[normalize-space()='Login or Create Account']"
     yatra_logo_login_createaccount_page_xpath = "//a[@title='https://www.yatra.com']//i[@class='ico-newHeaderLogo']"
