@@ -15,7 +15,7 @@ class LandingPage:
     corporate_travel_link_xpath = "//body[1]/div[3]/div[3]/div[1]/div[1]/p[1]"
     yatra_mice_link_xpath = "//body[1]/div[3]/div[3]/div[1]/div[1]/p[2]"
 
-    travel_agent_title_xpath = "/html/body/div[1]/div/div[1]/div[1]/div/div[2]/div[2]/a/div/span"
+    travel_agent_title_xpath = "//span[@type='travel-agent']"
     login_signup_title_xpath = "//*[@id='__next']/div/div[1]/div[1]/div/div[2]/div[3]/p"
     login_createaccount_link_xpath = "//p[normalize-space()='Login or Create Account']"
     yatra_logo_login_createaccount_page_xpath = "//a[@title='https://www.yatra.com']//i[@class='ico-newHeaderLogo']"
@@ -71,7 +71,7 @@ class LandingPage:
     def click_travel_agent_button(self):
         travel_agent_title_xpath = (WebDriverWait(self.driver, 10).until
             (EC.element_to_be_clickable(
-            (By.XPATH, "//*[@id='__next']/div/div[1]/div[1]/div/div[2]/div[2]/a"))))
+            (By.XPATH,"//span[@type='travel-agent']"))))
         travel_agent_title_xpath.click()
 
 
