@@ -25,6 +25,9 @@ class LandingPage:
     panel_multitab_title_retrieving_xpath="//*[@id='__next']/div/div[1]/div[2]/div[1]"
     flights_panel_button_path="//*[@id='simple-tab-0']"
 
+    multi_radiogroup_button_xpath="//*[@id='__next']/div/div[1]/div[2]/div[2]/div[1]/div[1]"
+
+
 
 
 
@@ -111,6 +114,18 @@ class LandingPage:
         except Exception as e:
             print(f"Error getting panel multitab title: {str(e)}")
             return []
+
+    def multiple_radio_buttons_title(self):
+        try:
+            WebDriverWait(self.driver, 10).until(
+                EC.presence_of_element_located((By.XPATH, self.multi_radiogroup_button_xpath))
+            )
+            multiradiobutton_title = self.driver.find_element(By.XPATH, self.multi_radiogroup_button_xpath).text
+            return multiradiobutton_title
+        except Exception as e:
+            print(f"Error getting radio button titles: {str(e)}")
+            return []
+
 
 
 

@@ -168,13 +168,29 @@ class Test_001_Landing_Page:
 
         self.logger.info("********** Retrieving Panel list buttons **********")
         multitab_results = self.lp.get_panel_multitab_title()
-
         message = f"Panel List items: {(multitab_results)}"
         self.logger.info(message)
         print(message)
-
         # Add assertions or further interactions here
         assert "Flights" in multitab_results, "Flights option not found in panel list"
+        assert "Hotels" in multitab_results, "Hotels option not found in panel list"
+        assert "Holidays" in multitab_results, "Holidays option not found in panel list"
+        assert "Bus" in multitab_results, "Bus option not found in panel list"
+        assert "Trains" in multitab_results, "Trains option not found in panel list"
+        assert "Cabs" in multitab_results, "Cabs option not found in panel list"
+        assert "Claim your Covid Refund" in multitab_results, "Claim your Covid Refund option not found in panel list"
+
+        self.logger.info("********** Retrieving Multiple Radio Group buttons **********")
+        multiradiobuttons_results = self.lp.multiple_radio_buttons_title()
+        message = f"Radio Button List: {(multiradiobuttons_results)}"
+        self.logger.info(message)
+        print(message)
+        # Add assertions or further interactions here
+        assert "One Way" in multiradiobuttons_results, "One Way option not found in radio button list"
+        assert "Round Trip" in multiradiobuttons_results, "Round Trip option not found in radio button list"
+        assert "Multi City" in multiradiobuttons_results, "Multi City option not found in radio button list"
+
+
 
 
 
